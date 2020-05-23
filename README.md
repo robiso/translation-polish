@@ -4,7 +4,7 @@
 
 <br><br>
 
-Translations Author: RarogCmex
+Translations Author: glenshee
 
 This plugin adds Polish translations to the WonderCMS admin area, based on `https://github.com/StephanStanisic/zlanguage-nl_NL` (experimental version)
 
