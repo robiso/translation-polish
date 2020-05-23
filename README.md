@@ -1,4 +1,4 @@
-<p align="center"><img src="preview.jpg" /></p>
+<p align="center"><img src="preview.jpg?v=2" /></p>
 <h1 align="center">language-pl</h1>
 <p align="center">Polish translations for WonderCMS</p>
 
