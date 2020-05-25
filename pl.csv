@@ -42,7 +42,7 @@ THEMES AND PLUGINS
 ">Active","> Aktywna"
 "return confirm\('Activate (.*?) theme\?'\)","return confirm('Aktywować $1?')"
 "> Activate","> Aktywuj"
-"> More info",""> Więcej informacji"
+"> More info","> Więcej informacji"
 "> Install","> Instaluj"
 ">Installed version:","> Zainstalowana wersja:"
 ">Custom repository","> Zewnętrzne repozytorium"
