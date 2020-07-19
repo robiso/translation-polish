@@ -1,89 +1,89 @@
 OVERLAYS
-">Saving","> Zapisuję"
-">Checking for updates",">Sprawdzam aktualizacje"
+    ">Saving","> Zapisuję"
+    ">Checking for updates",">Sprawdzam aktualizacje"
 
 
 BUTTONS
-"> Settings","> Ustawienia"
+    "> Settings","> Ustawienia"
 
 
 MENU ITEMS
-">Current page","> Aktualna strona"
-">Menu","> Menu"
-">Files","> Pliki"
-">Themes","> Motywy"
-">Plugins","> Wtyczki"
-">Security","> Zabezpieczenia"
+    ">Current page","> Aktualna strona"
+    ">Menu","> Menu"
+    ">Files","> Pliki"
+    ">Themes","> Motywy"
+    ">Plugins","> Wtyczki"
+    ">Security","> Zabezpieczenia"
 
 
 CURRENT PAGE
-">Page title","> Tytuł strony"
-">Page keywords","> Słowa kluczowe"
-">Page description","> Opis strony"
-"> Delete page","> Usuń stronę"
-"return confirm\('Delete (.*?)\?'\)","return confirm('Usuń $1?')"
+    ">Page title","> Tytuł strony"
+    ">Page keywords","> Słowa kluczowe"
+    ">Page description","> Opis strony"
+    "> Delete page","> Usuń stronę"
+    "return confirm\('Delete (.*?)\?'\)","return confirm('Usuń $1?')"
 
 
 MENU
-">Website title","> Tytuł serwisu"
-">Page to display on homepage","> Ustaw jako stronę główną"
-">visit","> Zobacz"
-"> Add page","> Dodaj stronę"
+    ">Website title","> Tytuł serwisu"
+    ">Page to display on homepage","> Ustaw jako stronę główną"
+    ">visit","> Zobacz"
+    "> Add page","> Dodaj stronę"
 
 
 FILES
-">Upload","> Wyślij na serwis"
-">Delete files","> Usuń pliki"
+    ">Upload","> Wyślij na serwis"
+    ">Delete files","> Usuń pliki"
 
 
 THEMES AND PLUGINS
-"> Check for updates","> Sprawdź aktualizacje"
-"return confirm\('Remove (.*?)\?'\)","return confirm('Usuń $1?')"
-">Active","> Aktywna"
-"return confirm\('Activate (.*?) theme\?'\)","return confirm('Aktywować $1?')"
-"> Activate","> Aktywuj"
-"> More info","> Więcej informacji"
-"> Install","> Instaluj"
-">Installed version:","> Zainstalowana wersja:"
-">Custom repository","> Zewnętrzne repozytorium"
-"Enter URL to custom repository","Wprowadź URL do zew. repozytorium"
-"> Add", "> Dodaj"
-"> Read more about custom repositories","> Więcej informacji o zew. repozytoriach.“
+    "> Check for updates","> Sprawdź aktualizacje"
+    "return confirm\('Remove (.*?)\?'\)","return confirm('Usuń $1?')"
+    ">Active","> Aktywna"
+    "return confirm\('Activate (.*?) theme\?'\)","return confirm('Aktywować $1?')"
+    "> Activate","> Aktywuj"
+    "> More info","> Więcej informacji"
+    "> Install","> Instaluj"
+    ">Installed version:","> Zainstalowana wersja:"
+    ">Custom repository","> Zewnętrzne repozytorium"
+    "Enter URL to custom repository","Wprowadź URL do zew. repozytorium"
+    "> Add", "> Dodaj"
+    "> Read more about custom repositories","> Więcej informacji o zew. repozytoriach.“
 
 
 SECURITY
-">Admin login URL","> URL logowania"
-">Save your login URL to log into your website next time:","> Zachowaj swój URL logowania aby zalogować się ponownie",
-">Password","> Hasło"
-"Old password","Stare hasło"
-"New password","Nowe hasło"
-"> Change password","> Zmień hasło"
+    ">Admin login URL","> URL logowania"
+    ">Save your login URL to log into your website next time:","> Zachowaj swój URL logowania aby zalogować się ponownie",
+    ">Password","> Hasło"
+    "Old password","Stare hasło"
+    "New password","Nowe hasło"
+    "> Change password","> Zmień hasło"
 
-"> How to restore backup","> Jak przywrócić kopię bezpieczeństwa",
-">Improved security \(Apache only\)","> Większe zabezpieczenia (tylko serwer Apache)"
-">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.","> Przekierowanie HTTPS, 30-dniowe buforowanie iframe dozwolone tylko z tego samego źródła, zapobieganie sprawdzaniu typu MIME, bardziej rygorystyczne zasady dotyczące plików cookie."
-">ON \(warning: may break your website\)","> Włącz \ (Uwaga: może uszkodzić Twój serwis \)"
-">OFF \(reset htaccess to default\)", "> Wyłącz (przywróć ust. htaccess do domyślnych)"
-"> Read more before enabling","> Przeczytaj więcej informacji zanim włączysz"
-">Backup","> Kopia bezpieczeństwa"
-"> Backup website","> Zrób kopię bezpieczeństwa serwisu"
-">Last 5 logins","> Ostatnich 5 logowań"
+    "> How to restore backup","> Jak przywrócić kopię bezpieczeństwa",
+    ">Improved security \(Apache only\)","> Większe zabezpieczenia (tylko serwer Apache)"
+    ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.","> Przekierowanie HTTPS, 30-dniowe buforowanie iframe dozwolone tylko z tego samego źródła, zapobieganie sprawdzaniu typu MIME, bardziej rygorystyczne zasady dotyczące plików cookie."
+    ">ON \(warning: may break your website\)","> Włącz \ (Uwaga: może uszkodzić Twój serwis \)"
+    ">OFF \(reset htaccess to default\)", "> Wyłącz (przywróć ust. htaccess do domyślnych)"
+    "> Read more before enabling","> Przeczytaj więcej informacji zanim włączysz"
+    ">Backup","> Kopia bezpieczeństwa"
+    "> Backup website","> Zrób kopię bezpieczeństwa serwisu"
+    ">Last 5 logins","> Ostatnich 5 logowań"
 
 
 STATISTICS
-">Statistics","> Statystyka"
-">Today", "> Dzisiaj"
-">This week", "> W tym tygodniu"
-">Most popular page","> Najpopularniejsza strona"
-">Pageviews last two weeks","> Wyświetlenia w ostatnich dwóch tyg."
-">Sessions last two weeks","> Sesje w ostatnich dwóch tyg."
-">Sessions","> Sesje"
-">Pageviews","> Wyświetlenia"
+    ">Statistics","> Statystyka"
+    ">Today", "> Dzisiaj"
+    ">This week", "> W tym tygodniu"
+    ">Most popular page","> Najpopularniejsza strona"
+    ">Pageviews last two weeks","> Wyświetlenia w ostatnich dwóch tyg."
+    ">Sessions last two weeks","> Sesje w ostatnich dwóch tyg."
+    ">Sessions","> Sesje"
+    ">Pageviews","> Wyświetlenia"
 
 
 FOOTER
-">News","> Nowości"
-">Community",">Społeczność"
-">Docs","> Dokumenty"
-">Donate","> Wesprzyj"
-">Shop/Merch",">Sklep"
+    ">News","> Nowości"
+    ">Community",">Społeczność"
+    ">Docs","> Dokumenty"
+    ">Donate","> Wesprzyj"
+    ">Shop/Merch",">Sklep"
