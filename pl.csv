@@ -1,6 +1,6 @@
 OVERLAYS
     ">Saving","> Zapisuję"
-    ">Checking for updates",">Sprawdzam aktualizacje"
+    ">Checking for updates",">Sprawdzanie aktualizacji"
 
 
 BUTTONS
@@ -75,8 +75,8 @@ STATISTICS
     ">Today", "> Dzisiaj"
     ">This week", "> W tym tygodniu"
     ">Most popular page","> Najpopularniejsza strona"
-    ">Pageviews last two weeks","> Wyświetlenia w ostatnich dwóch tyg."
-    ">Sessions last two weeks","> Sesje w ostatnich dwóch tyg."
+    ">Pageviews last two weeks","> Wyświetlenia w ciągu ostatnich dwóch tyg."
+    ">Sessions last two weeks","> Sesje w ciągu ostatnich dwóch tyg."
     ">Sessions","> Sesje"
     ">Pageviews","> Wyświetlenia"
 
