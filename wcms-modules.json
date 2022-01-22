@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "plugins": {
+        "translation-polish": {
+            "name": "Translation Polish",
+            "repo": "https://github.com/robiso/translation-polish/tree/master",
+            "zip": "https://github.com/robiso/translation-polish/archive/master.zip",
+            "summary": "Polish language pack.",
+            "version": "3.1.4",
+            "image": "https://raw.githubusercontent.com/robiso/translation-polish/master/preview.jpg"
+        }
+    }
+}
