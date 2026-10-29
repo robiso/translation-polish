@@ -53,13 +53,13 @@ THEMES AND PLUGINS
 
 SECURITY
     ">Admin login URL","> URL logowania"
-    ">Save your login URL to log in to your website next time:","> Zachowaj swój URL logowania aby zalogować się ponownie",
+    ">Save your login URL to log in to your website next time:","> Zachowaj swój URL logowania aby zalogować się ponownie"
     ">Password","> Hasło"
     "Old password","Stare hasło"
     "New password","Nowe hasło"
     "> Change password","> Zmień hasło"
 
-    "> How to restore backup","> Jak przywrócić kopię bezpieczeństwa",
+    "> How to restore backup","> Jak przywrócić kopię bezpieczeństwa"
     ">Improved security \(Apache only\)","> Większe zabezpieczenia (tylko serwer Apache)"
     ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.","> Przekierowanie HTTPS, 30-dniowe buforowanie iframe dozwolone tylko z tego samego źródła, zapobieganie sprawdzaniu typu MIME, bardziej rygorystyczne zasady dotyczące plików cookie."
     ">ON \(warning: may break your website\)","> Włącz \ (Uwaga: może uszkodzić Twój serwis \)"
