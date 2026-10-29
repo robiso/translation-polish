@@ -22,6 +22,7 @@ CURRENT PAGE
     ">Page description","> Opis strony"
     "> Delete page","> Usuń stronę"
     "return confirm\('Delete (.*?)\?'\)","return confirm('Usuń $1?')"
+    "data-confirm=""Delete (.*?)\?""","data-confirm=""Usuń $1?"""
 
 
 MENU
@@ -39,8 +40,10 @@ FILES
 THEMES AND PLUGINS
     "> Check for updates","> Sprawdź aktualizacje"
     "return confirm\('Remove (.*?)\?'\)","return confirm('Usuń $1?')"
+    "data-confirm=""Remove (.*?)\?""","data-confirm=""Usuń $1?"""
     ">Active","> Aktywna"
     "return confirm\('Activate (.*?) theme\?'\)","return confirm('Aktywować $1?')"
+    "data-confirm=""Activate (.*?) theme\?""","data-confirm=""Aktywować $1?"""
     "> Activate","> Aktywuj"
     "> More info","> Więcej informacji"
     "> Install","> Instaluj"
