@@ -5,6 +5,7 @@ OVERLAYS
 
 BUTTONS
     "> Settings","> Ustawienia"
+    "return confirm\('Log out\?'\)","return confirm('Wylogować się?')"
 
 
 MENU ITEMS
@@ -29,6 +30,10 @@ MENU
     ">Website title","> Tytuł serwisu"
     ">Page to display on homepage","> Ustaw jako stronę główną"
     ">visit","> Zobacz"
+    "title=""Make page private \(only you see it while logged in\)""","title=""Ustaw stronę jako prywatną (widzisz ją tylko ty, gdy jesteś zalogowany)"""
+    "title=""Make page public""","title=""Ustaw stronę jako publiczną"""
+    "lockIcon""><\/i> private<\/a>","lockIcon""></i> prywatna</a>"
+    "lockIcon""><\/i> public<\/a>","lockIcon""></i> publiczna</a>"
     "> Add page","> Dodaj stronę"
 
 
@@ -39,19 +44,26 @@ FILES
 
 THEMES AND PLUGINS
     "> Check for updates","> Sprawdź aktualizacje"
+    "title=""Remove this repository from the list""","title=""Usuń to repozytorium z listy"""
+    "data-confirm=""Remove (.*?)\? Anything installed from it stays\.""","data-confirm=""Usunąć $1? Wszystko, co z niego zainstalowano, zostaje."""
     "return confirm\('Remove (.*?)\?'\)","return confirm('Usuń $1?')"
     "data-confirm=""Remove (.*?)\?""","data-confirm=""Usuń $1?"""
     ">Active","> Aktywna"
     "return confirm\('Activate (.*?) theme\?'\)","return confirm('Aktywować $1?')"
     "data-confirm=""Activate (.*?) theme\?""","data-confirm=""Aktywować $1?"""
+    "data-confirm=""Disable (.*?)\?""","data-confirm=""Wyłączyć $1?"""
+    "data-confirm=""This is an (.*?) plugin\. Installing (.*?) will disable (.*?)\. Continue\?""","data-confirm=""To jest wtyczka typu $1. Instalacja $2 wyłączy $3. Kontynuować?"""
+    "data-confirm=""This is an (.*?) plugin\. Updating (.*?) will keep it enabled and disable (.*?)\. Continue\?""","data-confirm=""To jest wtyczka typu $1. Aktualizacja $2 pozostawi ją włączoną i wyłączy $3. Kontynuować?"""
+    "data-confirm=""This is an (.*?) plugin\. Enabling (.*?) will disable (.*?)\. Continue\?""","data-confirm=""To jest wtyczka typu $1. Włączenie $2 wyłączy $3. Kontynuować?"""
     "> Activate","> Aktywuj"
     "> More info","> Więcej informacji"
     "> Install","> Instaluj"
     ">Installed version:","> Zainstalowana wersja:"
     ">Custom repository","> Zewnętrzne repozytorium"
     "Enter URL to custom repository","Wprowadź URL do zew. repozytorium"
+    "return confirm\('Adding unknown modules can be VERY dangerous, are you sure you want to continue\?'\)","return confirm('Dodawanie nieznanych modułów może być BARDZO niebezpieczne, czy na pewno chcesz kontynuować?')"
     "> Add", "> Dodaj"
-    "> Read more about custom repositories","> Więcej informacji o zew. repozytoriach.“
+    "> Read more about custom repositories","> Więcej informacji o zew. repozytoriach."
 
 
 SECURITY
@@ -67,6 +79,7 @@ SECURITY
     ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.","> Przekierowanie HTTPS, 30-dniowe buforowanie iframe dozwolone tylko z tego samego źródła, zapobieganie sprawdzaniu typu MIME, bardziej rygorystyczne zasady dotyczące plików cookie."
     ">ON \(warning: may break your website\)","> Włącz \ (Uwaga: może uszkodzić Twój serwis \)"
     ">OFF \(reset htaccess to default\)", "> Wyłącz (przywróć ust. htaccess do domyślnych)"
+    "return confirm\('Are you sure\? This might break your website if you do not have SSL configured correctly\.'\)","return confirm('Na pewno? Może to zepsuć twoją stronę, jeśli SSL nie jest poprawnie skonfigurowany.')"
     "> Read more before enabling","> Przeczytaj więcej informacji zanim włączysz"
     ">Backup","> Kopia bezpieczeństwa"
     "> Backup website","> Zrób kopię bezpieczeństwa serwisu"
